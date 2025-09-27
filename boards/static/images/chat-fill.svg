@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="#0d6efd" viewBox="0 0 24 24">
+  <!-- First chat bubble -->
+  <path d="M3 3h14a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H8l-4 4v-4H3a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"/>
+
+  <!-- Second chat bubble -->
+  <path d="M7 14h10l4 4v-4h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2z" opacity="0.6"/>
+</svg>
